@@ -6,5 +6,5 @@ Wordpress bileşenleri alanına ekleyebileceğiniz özenle hazırlanmış sosyal
 - Kodlar arasında yer alan **source/social.html** dosyasının içeriğini `Özel HTML` adlı bileşen ile sitenizin herhangi bir alanına ekleyin.
 - `Özelleştir>Ek CSS` alanına **source/main.css** dosyasının içeriğini **yapıştırın**.
 
->**Note**
-> Üst Footer'da yer alan metin alanına (varsa) eklemeniz tavsiye edilir.
+## Bilgilendirme
+Üst Footer'da yer alan metin alanına (varsa) eklemeniz tavsiye edilir. Demo için [sitemizin footer bölümünü](https://sibersozluk.net/) veya yukarıda yer alan görüntüyü inceleyebilirsiniz.
