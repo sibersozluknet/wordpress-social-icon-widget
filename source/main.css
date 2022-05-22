@@ -1,0 +1,21 @@
+/* Bu dosyanın içeriğini Ek CSS alanına ekleyin */
+.ss-icons{
+float:left;
+widht:100%;
+display: flex;
+margin-bottom: 5px;
+}
+.ss-icons .ss-fa-icon{
+font-size: 25px;
+background: #161618;
+border-radius: 7px;
+margin-right: 10px;
+}
+.ss-icons .ss-fa-icon:hover{
+background: #1b1b1e;
+}
+.ss-icons .ss-fa-icon i{
+color: #fff;
+padding: 11px;
+font-size: 20px;
+}
